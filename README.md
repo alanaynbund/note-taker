@@ -7,7 +7,7 @@ The app uses an Express.js back end and will save and retrieve user generated no
 
 
 ### Website Link
-Check out the deployed app here:
+Check out the deployed app here: https://note-taker142.herokuapp.com/
 
 ### Screenshots
 
